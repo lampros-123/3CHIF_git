@@ -2,5 +2,3 @@
 
 Konstantin Neubauer
 Matthias Zwergmann
-
-Merge Conflicts Suck
